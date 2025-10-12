@@ -1,0 +1,197 @@
+[
+  {
+    "id": "creamy-garlic-butter-chicken-rice-soup",
+    "title": "Creamy Garlic Butter Chicken & Rice Soup",
+    "type": "Soup",
+    "subtype": "Pressure Cooker",
+    "tags": [
+      "garlic",
+      "butter",
+      "chicken",
+      "rice",
+      "creamy",
+      "pressure-cooker"
+    ],
+    "servings": 8,
+    "yield_litres": 2,
+    "time": {
+      "prep_minutes": 10,
+      "cook_minutes": 18,
+      "total_minutes": 35
+    },
+    "ingredients": [
+      {
+        "qty": "3 tbsp",
+        "item": "Butter"
+      },
+      {
+        "qty": "1 tbsp",
+        "item": "Olive oil"
+      },
+      {
+        "qty": "1 large",
+        "item": "Onion, finely chopped"
+      },
+      {
+        "qty": "6 cloves",
+        "item": "Garlic, minced"
+      },
+      {
+        "qty": "3 breasts",
+        "item": "Chicken, diced"
+      },
+      {
+        "qty": "1.5 tsp",
+        "item": "Salt"
+      },
+      {
+        "qty": "0.75 tsp",
+        "item": "Black pepper"
+      },
+      {
+        "qty": "1.5 tsp",
+        "item": "Italian seasoning"
+      },
+      {
+        "qty": "200 g",
+        "item": "Arborio rice"
+      },
+      {
+        "qty": "1.5 L",
+        "item": "Chicken stock"
+      },
+      {
+        "qty": "180 ml",
+        "item": "Cream"
+      },
+      {
+        "qty": "50 g",
+        "item": "Grated parmesan"
+      },
+      {
+        "qty": "1.5 tbsp",
+        "item": "Fresh lemon juice"
+      },
+      {
+        "qty": "60 g",
+        "item": "Spinach (optional)"
+      },
+      {
+        "qty": "1 tsp",
+        "item": "Smoked paprika (optional)"
+      },
+      {
+        "qty": "1 tbsp",
+        "item": "Fresh parsley (optional)"
+      }
+    ],
+    "directions": [
+      "Saut\u00e9 base \u2014 butter + oil + onion 3\u20134 min.",
+      "Add garlic 30\u201345 sec.",
+      "Add chicken + seasonings 3\u20134 min.",
+      "Add rice, coat; add stock; deglaze.",
+      "Pressure cook 8 min; natural release 5 min, quick release.",
+      "Stir in cream + parmesan + lemon. Add spinach 2\u20133 min. Adjust."
+    ],
+    "notes": "Yields ~2 L (~6\u20138 servings)."
+  },
+  {
+    "id": "scottish-lentil-soup-ham-hough",
+    "title": "Scottish Lentil Soup with Ham Hough",
+    "type": "Soup",
+    "subtype": "Pressure & Slow Cook",
+    "tags": [
+      "scottish",
+      "lentil",
+      "ham hough",
+      "ham hock",
+      "pressure-cooker",
+      "slow-cooker"
+    ],
+    "servings": 8,
+    "yield_litres": 2.5,
+    "time": {
+      "prep_minutes": 15,
+      "cook_minutes": 45,
+      "total_minutes": 75
+    },
+    "ingredients": [
+      {
+        "qty": "1 medium",
+        "item": "Smoked ham hough (1\u20131.2 kg / 2\u20132\u00bd lb)"
+      },
+      {
+        "qty": "300 g",
+        "item": "Red lentils, rinsed"
+      },
+      {
+        "qty": "2 L",
+        "item": "Cold water or unsalted stock"
+      },
+      {
+        "qty": "2 large",
+        "item": "Carrots, diced"
+      },
+      {
+        "qty": "2",
+        "item": "Celery sticks, diced"
+      },
+      {
+        "qty": "1 large",
+        "item": "Onion, chopped"
+      },
+      {
+        "qty": "1 small",
+        "item": "Leek, sliced"
+      },
+      {
+        "qty": "1 small",
+        "item": "Parsnip, diced (optional)"
+      },
+      {
+        "qty": "1",
+        "item": "Bay leaf"
+      },
+      {
+        "qty": "1 tsp",
+        "item": "Black pepper"
+      },
+      {
+        "qty": "\u00bd tsp",
+        "item": "Thyme or a few sprigs fresh"
+      },
+      {
+        "qty": "to taste",
+        "item": "Salt (add after cooking)"
+      },
+      {
+        "qty": "1 tbsp",
+        "item": "Butter or oil (optional, for saut\u00e9)"
+      },
+      {
+        "qty": "splash",
+        "item": "Malt vinegar (optional)"
+      },
+      {
+        "qty": "pinch",
+        "item": "Sugar (optional)"
+      },
+      {
+        "qty": "handful",
+        "item": "Fresh parsley, chopped (to finish)"
+      }
+    ],
+    "directions": [
+      "Set Instant Pot to Saut\u00e9 (optional). Soften onion, leek, carrot, and celery in butter/oil for 4\u20135 minutes.",
+      "Add rinsed lentils, parsnip (optional), pepper, thyme, bay leaf, and ham hough.",
+      "Pour in 2 L water/stock, ensuring hough is just covered (do not exceed max line).",
+      "Lock lid and cook on High Pressure for 45 minutes. Allow natural release for 15\u201320 minutes.",
+      "Remove hough, cool slightly, pull meat from bone, discard fat/skin, and shred.",
+      "Stir soup (lentils mostly broken down). Mash or blend briefly if smoother texture desired.",
+      "Return shredded ham, adjust salt/pepper. Add splash of malt vinegar or pinch of sugar if needed.",
+      "Garnish with chopped parsley and serve with crusty bread or oatcakes.",
+      "Slow cook alternative: Combine all ingredients (except parsley/salt). Cook 8\u20139 hours on Low or 5\u20136 on High. Shred hough, season, and finish as above."
+    ],
+    "notes": "Traditional Scottish red lentil soup with a smoked ham hough. Dual-mode recipe."
+  }
+]
