@@ -20,80 +20,32 @@
       "total_minutes": 35
     },
     "ingredients": [
-      {
-        "qty": "3 tbsp",
-        "item": "Butter"
-      },
-      {
-        "qty": "1 tbsp",
-        "item": "Olive oil"
-      },
-      {
-        "qty": "1 large",
-        "item": "Onion, finely chopped"
-      },
-      {
-        "qty": "6 cloves",
-        "item": "Garlic, minced"
-      },
-      {
-        "qty": "3 breasts",
-        "item": "Chicken, diced"
-      },
-      {
-        "qty": "1.5 tsp",
-        "item": "Salt"
-      },
-      {
-        "qty": "0.75 tsp",
-        "item": "Black pepper"
-      },
-      {
-        "qty": "1.5 tsp",
-        "item": "Italian seasoning"
-      },
-      {
-        "qty": "200 g",
-        "item": "Arborio rice"
-      },
-      {
-        "qty": "1.5 L",
-        "item": "Chicken stock"
-      },
-      {
-        "qty": "180 ml",
-        "item": "Cream"
-      },
-      {
-        "qty": "50 g",
-        "item": "Grated parmesan"
-      },
-      {
-        "qty": "1.5 tbsp",
-        "item": "Fresh lemon juice"
-      },
-      {
-        "qty": "60 g",
-        "item": "Spinach (optional)"
-      },
-      {
-        "qty": "1 tsp",
-        "item": "Smoked paprika (optional)"
-      },
-      {
-        "qty": "1 tbsp",
-        "item": "Fresh parsley (optional)"
-      }
+      { "qty": "3 tbsp", "item": "Butter" },
+      { "qty": "1 tbsp", "item": "Olive oil" },
+      { "qty": "1 large", "item": "Onion, finely chopped" },
+      { "qty": "6 cloves", "item": "Garlic, minced" },
+      { "qty": "3 breasts", "item": "Chicken, diced" },
+      { "qty": "1.5 tsp", "item": "Salt" },
+      { "qty": "0.75 tsp", "item": "Black pepper" },
+      { "qty": "1.5 tsp", "item": "Italian seasoning" },
+      { "qty": "200 g", "item": "Arborio rice" },
+      { "qty": "1.5 L", "item": "Chicken stock" },
+      { "qty": "180 ml", "item": "Cream" },
+      { "qty": "50 g", "item": "Grated parmesan" },
+      { "qty": "1.5 tbsp", "item": "Fresh lemon juice" },
+      { "qty": "60 g", "item": "Spinach (optional)" },
+      { "qty": "1 tsp", "item": "Smoked paprika (optional)" },
+      { "qty": "1 tbsp", "item": "Fresh parsley (optional)" }
     ],
     "directions": [
-      "Saut\u00e9 base \u2014 butter + oil + onion 3\u20134 min.",
-      "Add garlic 30\u201345 sec.",
-      "Add chicken + seasonings 3\u20134 min.",
+      "Sauté base — butter + oil + onion 3–4 min.",
+      "Add garlic 30–45 sec.",
+      "Add chicken + seasonings 3–4 min.",
       "Add rice, coat; add stock; deglaze.",
       "Pressure cook 8 min; natural release 5 min, quick release.",
-      "Stir in cream + parmesan + lemon. Add spinach 2\u20133 min. Adjust."
+      "Stir in cream + parmesan + lemon. Add spinach 2–3 min. Adjust."
     ],
-    "notes": "Yields ~2 L (~6\u20138 servings)."
+    "notes": "Yields ~2 L (~6–8 servings)."
   },
   {
     "id": "scottish-lentil-soup-ham-hough",
@@ -116,82 +68,81 @@
       "total_minutes": 75
     },
     "ingredients": [
-      {
-        "qty": "1 medium",
-        "item": "Smoked ham hough (1\u20131.2 kg / 2\u20132\u00bd lb)"
-      },
-      {
-        "qty": "300 g",
-        "item": "Red lentils, rinsed"
-      },
-      {
-        "qty": "2 L",
-        "item": "Cold water or unsalted stock"
-      },
-      {
-        "qty": "2 large",
-        "item": "Carrots, diced"
-      },
-      {
-        "qty": "2",
-        "item": "Celery sticks, diced"
-      },
-      {
-        "qty": "1 large",
-        "item": "Onion, chopped"
-      },
-      {
-        "qty": "1 small",
-        "item": "Leek, sliced"
-      },
-      {
-        "qty": "1 small",
-        "item": "Parsnip, diced (optional)"
-      },
-      {
-        "qty": "1",
-        "item": "Bay leaf"
-      },
-      {
-        "qty": "1 tsp",
-        "item": "Black pepper"
-      },
-      {
-        "qty": "\u00bd tsp",
-        "item": "Thyme or a few sprigs fresh"
-      },
-      {
-        "qty": "to taste",
-        "item": "Salt (add after cooking)"
-      },
-      {
-        "qty": "1 tbsp",
-        "item": "Butter or oil (optional, for saut\u00e9)"
-      },
-      {
-        "qty": "splash",
-        "item": "Malt vinegar (optional)"
-      },
-      {
-        "qty": "pinch",
-        "item": "Sugar (optional)"
-      },
-      {
-        "qty": "handful",
-        "item": "Fresh parsley, chopped (to finish)"
-      }
+      { "qty": "1 medium", "item": "Smoked ham hough (1–1.2 kg / 2–2½ lb)" },
+      { "qty": "300 g", "item": "Red lentils, rinsed" },
+      { "qty": "2 L", "item": "Cold water or unsalted stock" },
+      { "qty": "2 large", "item": "Carrots, diced" },
+      { "qty": "2", "item": "Celery sticks, diced" },
+      { "qty": "1 large", "item": "Onion, chopped" },
+      { "qty": "1 small", "item": "Leek, sliced" },
+      { "qty": "1 small", "item": "Parsnip, diced (optional)" },
+      { "qty": "1", "item": "Bay leaf" },
+      { "qty": "1 tsp", "item": "Black pepper" },
+      { "qty": "½ tsp", "item": "Thyme or a few sprigs fresh" },
+      { "qty": "to taste", "item": "Salt (add after cooking)" },
+      { "qty": "1 tbsp", "item": "Butter or oil (optional, for sauté)" },
+      { "qty": "splash", "item": "Malt vinegar (optional)" },
+      { "qty": "pinch", "item": "Sugar (optional)" },
+      { "qty": "handful", "item": "Fresh parsley, chopped (to finish)" }
     ],
     "directions": [
-      "Set Instant Pot to Saut\u00e9 (optional). Soften onion, leek, carrot, and celery in butter/oil for 4\u20135 minutes.",
+      "Set Instant Pot to Sauté (optional). Soften onion, leek, carrot, and celery in butter/oil for 4–5 minutes.",
       "Add rinsed lentils, parsnip (optional), pepper, thyme, bay leaf, and ham hough.",
       "Pour in 2 L water/stock, ensuring hough is just covered (do not exceed max line).",
-      "Lock lid and cook on High Pressure for 45 minutes. Allow natural release for 15\u201320 minutes.",
+      "Lock lid and cook on High Pressure for 45 minutes. Allow natural release for 15–20 minutes.",
       "Remove hough, cool slightly, pull meat from bone, discard fat/skin, and shred.",
       "Stir soup (lentils mostly broken down). Mash or blend briefly if smoother texture desired.",
       "Return shredded ham, adjust salt/pepper. Add splash of malt vinegar or pinch of sugar if needed.",
       "Garnish with chopped parsley and serve with crusty bread or oatcakes.",
-      "Slow cook alternative: Combine all ingredients (except parsley/salt). Cook 8\u20139 hours on Low or 5\u20136 on High. Shred hough, season, and finish as above."
+      "Slow cook alternative: Combine all ingredients (except parsley/salt). Cook 8–9 hours on Low or 5–6 on High. Shred hough, season, and finish as above."
     ],
     "notes": "Traditional Scottish red lentil soup with a smoked ham hough. Dual-mode recipe."
+  },
+  {
+    "id": "carrot-bacon-thyme-soup",
+    "title": "Carrot, Bacon & Thyme Soup",
+    "type": "Soup",
+    "subtype": "Pressure Cooker / Slow Cooker",
+    "tags": [
+      "carrot",
+      "bacon",
+      "thyme",
+      "pressure-cooker",
+      "instant-pot",
+      "slow-cooker",
+      "creamy"
+    ],
+    "servings": 5,
+    "yield_litres": 2,
+    "time": {
+      "prep_minutes": 10,
+      "cook_minutes": 20,
+      "total_minutes": 30
+    },
+    "ingredients": [
+      { "qty": "1 tbsp", "item": "Butter (or oil)" },
+      { "qty": "1 tbsp", "item": "Olive oil" },
+      { "qty": "120 g", "item": "Smoked streaky bacon, chopped (about 5 rashers)" },
+      { "qty": "1 large (≈150 g)", "item": "Onion, finely chopped" },
+      { "qty": "3 cloves", "item": "Garlic, crushed" },
+      { "qty": "800 g", "item": "Carrots, peeled & chopped" },
+      { "qty": "1 tsp", "item": "Fresh thyme leaves (or ½ tsp dried)" },
+      { "qty": "1.2 L", "item": "Chicken or vegetable stock" },
+      { "qty": "¾ tsp", "item": "Salt, plus black pepper to taste" },
+      { "qty": "1 tsp", "item": "Honey (or pinch of sugar), optional" },
+      { "qty": "1 tsp", "item": "Orange zest, optional, for brightness" },
+      { "qty": "75 ml", "item": "Double cream (or 1 tbsp butter) to finish" }
+    ],
+    "directions": [
+      "Crisp bacon: Set Instant Pot to Sauté. Heat olive oil, cook bacon until golden; remove about half for garnish.",
+      "Soften base: Add butter, onion, and garlic; cook 2–3 minutes until translucent.",
+      "Add carrots & thyme: Stir well and season lightly with salt/pepper.",
+      "Add stock: Pour in stock (just over the carrots). Cancel Sauté.",
+      "Pressure cook: High Pressure 10 minutes; quick release.",
+      "Blend: Purée until smooth (add splash of hot water if too thick).",
+      "Finish: Stir in cream or butter, honey, and orange zest. Adjust salt/pepper.",
+      "Serve: Ladle into bowls and top with crispy bacon and a sprig of thyme."
+    ],
+    "notes": "Yields ~2 L. For slow cooker: sauté bacon/onion/garlic in a pan, then add all ingredients (except cream/honey/zest) to the slow cooker; cook 4–5 hours on Low (or ~3 hours on High), blend, then finish with cream/honey/zest and season to taste."
   }
 ]
