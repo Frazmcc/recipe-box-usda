@@ -4,21 +4,10 @@
     "title": "Creamy Garlic Butter Chicken & Rice Soup",
     "type": "Soup",
     "subtype": "Pressure Cooker",
-    "tags": [
-      "garlic",
-      "butter",
-      "chicken",
-      "rice",
-      "creamy",
-      "pressure-cooker"
-    ],
+    "tags": ["garlic", "butter", "chicken", "rice", "creamy", "pressure-cooker"],
     "servings": 8,
     "yield_litres": 2,
-    "time": {
-      "prep_minutes": 10,
-      "cook_minutes": 18,
-      "total_minutes": 35
-    },
+    "time": { "prep_minutes": 10, "cook_minutes": 18, "total_minutes": 35 },
     "ingredients": [
       { "qty": "3 tbsp", "item": "Butter" },
       { "qty": "1 tbsp", "item": "Olive oil" },
@@ -62,11 +51,7 @@
     ],
     "servings": 8,
     "yield_litres": 2.5,
-    "time": {
-      "prep_minutes": 15,
-      "cook_minutes": 45,
-      "total_minutes": 75
-    },
+    "time": { "prep_minutes": 15, "cook_minutes": 45, "total_minutes": 75 },
     "ingredients": [
       { "qty": "1 medium", "item": "Smoked ham hough (1–1.2 kg / 2–2½ lb)" },
       { "qty": "300 g", "item": "Red lentils, rinsed" },
@@ -114,11 +99,7 @@
     ],
     "servings": 5,
     "yield_litres": 2,
-    "time": {
-      "prep_minutes": 10,
-      "cook_minutes": 20,
-      "total_minutes": 30
-    },
+    "time": { "prep_minutes": 10, "cook_minutes": 20, "total_minutes": 30 },
     "ingredients": [
       { "qty": "1 tbsp", "item": "Butter (or oil)" },
       { "qty": "1 tbsp", "item": "Olive oil" },
@@ -144,5 +125,51 @@
       "Serve: Ladle into bowls and top with crispy bacon and a sprig of thyme."
     ],
     "notes": "Yields ~2 L. For slow cooker: sauté bacon/onion/garlic in a pan, then add all ingredients (except cream/honey/zest) to the slow cooker; cook 4–5 hours on Low (or ~3 hours on High), blend, then finish with cream/honey/zest and season to taste."
+  },
+  {
+    "id": "creamy-chicken-barley-soup",
+    "title": "Creamy Chicken & Barley Soup",
+    "type": "Soup",
+    "subtype": "Pressure Cooker / Slow Cooker",
+    "tags": [
+      "chicken",
+      "barley",
+      "leek",
+      "carrot",
+      "pressure-cooker",
+      "instant-pot",
+      "slow-cooker",
+      "creamy"
+    ],
+    "servings": 5,
+    "yield_litres": 2,
+    "time": { "prep_minutes": 10, "cook_minutes": 25, "total_minutes": 35 },
+    "ingredients": [
+      { "qty": "1 tbsp", "item": "Olive oil" },
+      { "qty": "1 tbsp", "item": "Butter" },
+      { "qty": "500 g", "item": "Chicken thighs (boneless, skinless)" },
+      { "qty": "1 medium (≈150 g)", "item": "Onion, finely chopped" },
+      { "qty": "1 large", "item": "Leek, trimmed & sliced" },
+      { "qty": "2 medium (≈200 g)", "item": "Carrots, diced" },
+      { "qty": "1", "item": "Celery stick, diced" },
+      { "qty": "2 cloves", "item": "Garlic, crushed" },
+      { "qty": "1 tsp", "item": "Fresh thyme leaves (or ½ tsp dried)" },
+      { "qty": "100 g", "item": "Pearl barley, rinsed" },
+      { "qty": "1.2 L", "item": "Chicken stock" },
+      { "qty": "½ tsp", "item": "Salt, plus black pepper to taste" },
+      { "qty": "1", "item": "Bay leaf" },
+      { "qty": "100 ml", "item": "Double cream" },
+      { "qty": "1 tbsp", "item": "Lemon juice" },
+      { "qty": "2 tbsp", "item": "Fresh parsley, chopped" }
+    ],
+    "directions": [
+      "Sauté the base: On Sauté, heat oil and butter. Add onion, leek, carrot, celery, and garlic. Cook 3–4 minutes until softened.",
+      "Add chicken & flavourings: Add chicken thighs, thyme, bay leaf, and pearl barley. Season lightly with salt and pepper.",
+      "Add stock: Pour in chicken stock, stir well, ensuring barley isn’t stuck to the bottom.",
+      "Pressure cook: Seal lid. Cook on High Pressure for 25 minutes. Let pressure release naturally for 5 minutes, then quick release.",
+      "Finish: Remove chicken thighs, shred roughly with forks, and return to pot. Stir in cream, lemon juice, and parsley. Adjust seasoning.",
+      "Serve: Ladle into bowls. Optional garnish: extra parsley and a crack of black pepper."
+    ],
+    "notes": "If you prefer it thicker, simmer uncovered on Sauté for 5 min to reduce. For extra richness, stir in a teaspoon of Dijon mustard or a splash of white wine before cooking. Keeps beautifully in the fridge for 3 days or freeze in portions."
   }
 ]
